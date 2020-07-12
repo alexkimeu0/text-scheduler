@@ -1,0 +1,16 @@
+{
+  "name": "amor",
+  "version": "1.0.0",
+  "description": "Love text messages test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-cron": "^2.0.3",
+    "twilio": "^3.48.0"
+  }
+}
