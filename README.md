@@ -1,6 +1,6 @@
 # Lovey-Dovey
 ##### Declare your love like a programmer.
-###### Send your loved one romantic text messages every minute, hour, e.t.c. via a program.
+###### Send your loved one romantic text messages every minute, hour, e.t.c. via a node program.
 
 ### Steps
 1. Create a [Twilio](https://www.twilio.com/) account and create an SMS project.
