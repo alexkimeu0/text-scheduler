@@ -8,7 +8,7 @@
 3. Get Account ID and Authentication token from your project's dashboard on Twilio.
 4. Create an empty node project.
 5. Install Twilio and node-cron packages in your node project.
-6. Write a script to schedule the sending of messages. 
+6. Write a cron job script to schedule the sending of messages. 
 
 ### Packages' Documentation
 [node-cron](https://www.npmjs.com/package/node-cron)
